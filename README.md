@@ -7,7 +7,7 @@ Hi 👋, I'm Baran. Cyber Security Analyst and Data Scientist. I studied Compute
 * 🌍  I'm based in Ankara
 * ✉️  You can contact me at [brnakinn@gmail.com](mailto:brnakinn@gmail.com)
 * 🚀  I'm currently working on [Barikat Cyber Security](https://www.barikat.com.tr)
-* 🧠  I'm learning ML
+* 🧠  I'm learning Data Science and Machine Learning
 
 <a href="http://www.github.com/superberdus"><img src="https://github-readme-stats.vercel.app/api?username=superberdus&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="superberdus's GitHub stats" /></a>
 
