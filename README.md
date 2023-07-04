@@ -11,9 +11,7 @@ Hi 👋, I'm Baran. Cyber Security Analyst and Data Scientist. I studied Compute
 
 <a href="http://www.github.com/superberdus"><img src="https://github-readme-stats.vercel.app/api?username=superberdus&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="superberdus's GitHub stats" /></a>
 
------------------------------------- 
-  
-Some Tools I Have Used and Learned
+<h3> Some Tools I Have Used and Learned </h3>
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
@@ -33,8 +31,6 @@ Some Tools I Have Used and Learned
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
 </p>
-
-------------------------------------
 
 ## 🔗 Let's Connect!
 <a href="https://medium.com/@brnakin" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
