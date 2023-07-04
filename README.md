@@ -13,7 +13,7 @@ Hi 👋, I'm Baran. Cyber Security Analyst and Data Scientist. I studied Compute
 
 ------------------------------------ 
   
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+Some Tools I Have Used and Learned
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
