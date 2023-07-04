@@ -2,7 +2,7 @@ Cyber Security & Data Science
 ------------------------------------
 ![1500x500](https://github.com/superberdus/superberdus/assets/83096271/1bf7413f-f027-4123-a834-22f468830cf2)
 
-Hi 👋, I'm Baran. Cyber Security Analyst and Data Scientist. I studied Computer Engineering and also studied Applied Data Science as a minor. I love to share what I know, so I try to provide free resources about cybersec and data on my medium account. I work as a Cyber Security Analyst at Barikat Cyber Security. I am currently developing myself in Data Science and Machine Learning.
+Hi 👋, I'm Baran. Cyber Security Analyst and Data Scientist. I studied Computer Engineering and also studied Applied Data Science as a minor. I love to share what I know, so I try to provide free resources about cybersec and data science on my Medium account. I work as a Cyber Security Analyst at Barikat Cyber Security. I am currently developing myself in Data Science and Machine Learning.
 
 * 🌍  I'm based in Ankara
 * ✉️  You can contact me at [brnakinn@gmail.com](mailto:brnakinn@gmail.com)
