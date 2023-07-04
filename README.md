@@ -3,8 +3,6 @@ Cyber Security & Data Science
 
 <h1 align="center">Hi 👋, I'm Baran</h1>
 
-<img width="771" alt="Ekran Resmi 2022-09-19 17 51 26" src="https://user-images.githubusercontent.com/53175384/191059940-417c0766-0b8a-4e57-a998-e696fc3f5b89.png">
-
 * 🌍  I'm based in Ankara
 * ✉️  You can contact me at [brnakinn@gmail.com](mailto:brnakinn@gmail.com)
 * 🚀  I'm currently working on [Barikat Cyber Security](https://www.barikat.com.tr)
