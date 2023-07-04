@@ -3,6 +3,8 @@ Cyber Security & Data Science
 
 <h1 align="center">Hi 👋, I'm Baran</h1>
 
+Community lover, Cyber Security Analyst and Data Scientist. I love to share what I know, so I try to provide free resources on my medium account. I work as a Cyber Security Analyst at Barikat Siber Güvenlik.
+
 * 🌍  I'm based in Ankara
 * ✉️  You can contact me at [brnakinn@gmail.com](mailto:brnakinn@gmail.com)
 * 🚀  I'm currently working on [Barikat Cyber Security](https://www.barikat.com.tr)
