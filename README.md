@@ -9,7 +9,7 @@ Hi 👋, I'm Baran. Cyber Security Analyst and Data Scientist. I studied Compute
 * 🚀  I'm currently working on [Barikat Cyber Security](https://www.barikat.com.tr)
 * 🧠  I'm learning Data Science and Machine Learning
 
-<a href="http://www.github.com/superberdus"><img src="https://github-readme-stats.vercel.app/api?username=superberdus&show_icons=true&hide=&count_private=true&title_color=a5d6ef&text_color=ffffff&icon_color=a5d6ef&bg_color=1c1917&hide_border=true&show_icons=true" alt="superberdus's GitHub stats" /></a>
+<a href="http://www.github.com/brnakin"><img src="https://github-readme-stats.vercel.app/api?username=brnakin&show_icons=true&hide=&count_private=true&title_color=a5d6ef&text_color=ffffff&icon_color=a5d6ef&bg_color=1c1917&hide_border=true&show_icons=true" alt="brnakin's GitHub stats" /></a>
 
 <h3>📦 Stack</h3>
 <p align="left">
