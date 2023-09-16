@@ -27,9 +27,6 @@ Hi 👋, I'm Baran. Cyber Security Analyst and Data Scientist. I studied Compute
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" alt="javascript" width="45" height="45" />
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kaggle/kaggle-original-wordmark.svg" alt="html" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/minitab/minitab-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
 </p>
 
 <h3>🔗 Let's Connect!</h3>
