@@ -2,7 +2,7 @@ Cyber Security & Data Science
 ------------------------------------
 ![1500x500](https://github.com/superberdus/superberdus/assets/83096271/1bf7413f-f027-4123-a834-22f468830cf2)
 
-Hi 👋, I'm Baran. Cyber Security Analyst and Data Scientist. I studied Computer Engineering and also studied Applied Data Science as a minor. I love to share what I know, so I try to provide free resources about cybersec and data science on my Medium account. I work as a Cyber Security Analyst at Barikat Cyber Security. I am currently developing myself in Data Science and Machine Learning.
+Hi 👋, I'm Baran. Cyber Security Analyst and Data Scientist. I studied Computer Engineering and also studied Applied Data Science as a minor. I love to share what I know, so I try to provide free resources about cybersec and data science on my Medium account. I am currently developing myself in Data Science and Machine Learning.
 
 * 🌍  I'm based in Ankara
 * ✉️  You can contact me at [brnakinn@gmail.com](mailto:brnakinn@gmail.com)
@@ -13,20 +13,20 @@ Hi 👋, I'm Baran. Cyber Security Analyst and Data Scientist. I studied Compute
 
 <h3>📦 Stack</h3>
 <p align="left">
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg" alt="vscode" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" alt="python" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original-wordmark.svg" alt="vscode" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/r/r-original.svg" alt="python" width="45" height="45" />
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain-wordmark.svg" alt="css3" width="45" height="45" />
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original-wordmark.svg" alt="linux" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original-wordmark.svg" alt="git" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" alt="javascript" width="45" height="45" />
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kaggle/kaggle-original-wordmark.svg" alt="html" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/minitab/minitab-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="45" height="45" />
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg" alt="Java" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" alt="C" width="45" height="45" />
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/r/r-original.svg" alt="R" width="45" height="45" />
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original-wordmark.svg" alt="Git" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain-wordmark.svg" alt="Django" width="45" height="45" />
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kaggle/kaggle-original-wordmark.svg" alt="Kaggle" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/minitab/minitab-original.svg" alt="Minitab" width="45" height="45"/>
 </p>
 
 <h3>🔗 Let's Connect!</h3>
