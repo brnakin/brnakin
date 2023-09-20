@@ -17,6 +17,7 @@ Hi 👋, I'm Baran. Cyber Security Analyst and Data Scientist. I studied Compute
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg" alt="Java" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" alt="C" width="45" height="45" />
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/r/r-original.svg" alt="R" width="45" height="45" />
+<img src="https://github.com/brnakin/brnakin/assets/83096271/4d936546-e29b-4f97-a1f2-7d9277232c56" alt="SQL" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original-wordmark.svg" alt="Git" width="45" height="45"/>
