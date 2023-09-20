@@ -1,34 +1,44 @@
-Cyber Security & Data Science
-------------------------------------
-![1500x500](https://github.com/superberdus/superberdus/assets/83096271/1bf7413f-f027-4123-a834-22f468830cf2)
+# Hi there, I'm Baran 👋
 
-Hi 👋, I'm Baran. Cyber Security Analyst and Data Scientist. I studied Computer Engineering and also studied Applied Data Science as a minor. I love to share what I know, so I try to provide free resources about cybersec and data science on my Medium account. I work as a Cyber Security Analyst at Barikat Cyber Security. I am currently developing myself in Data Science and Machine Learning.
+![Header](https://github.com/superberdus/superberdus/assets/83096271/1bf7413f-f027-4123-a834-22f468830cf2)
 
-* 🌍  I'm based in Ankara
-* ✉️  You can contact me at [brnakinn@gmail.com](mailto:brnakinn@gmail.com)
-* 🚀  I'm currently working on [Barikat Cyber Security](https://www.barikat.com.tr)
-* 🧠  I'm learning Data Science and Machine Learning
+I'm a Cyber Security Analyst and Data Scientist based in Ankara. I have a background in Computer Engineering and a passion for sharing knowledge in the fields of cyber security and data science. Currently, I'm working at [Barikat Cyber Security](https://www.barikat.com.tr) and expanding my skills in data science and machine learning.
 
-<a href="http://www.github.com/brnakin"><img src="https://github-readme-stats.vercel.app/api?username=brnakin&show_icons=true&hide=&count_private=true&title_color=a5d6ef&text_color=ffffff&icon_color=a5d6ef&bg_color=1c1917&hide_border=true&show_icons=true" alt="brnakin's GitHub stats" /></a>
+🌐 **Location**: Ankara, Turkey
+✉️ **Contact**: [brnakinn@gmail.com](mailto:brnakinn@gmail.com)
+🚀 **Currently Working On**: [Barikat Cyber Security](https://www.barikat.com.tr)
+🧠 **Learning**: Data Science and Machine Learning
 
-<h3>📦 Stack</h3>
-<p align="left">
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg" alt="vscode" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" alt="python" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original-wordmark.svg" alt="vscode" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/r/r-original.svg" alt="python" width="45" height="45" />
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain-wordmark.svg" alt="css3" width="45" height="45" />
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original-wordmark.svg" alt="linux" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original-wordmark.svg" alt="git" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" alt="javascript" width="45" height="45" />
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kaggle/kaggle-original-wordmark.svg" alt="html" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/minitab/minitab-original.svg" alt="bash" width="45" height="45"/>
-</p>
+---
 
-<h3>🔗 Let's Connect!</h3>
-<a href="https://medium.com/@brnakin" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/baranakın/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+## 📊 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brnakin&show_icons=true&count_private=true&title_color=a5d6ef&text_color=ffffff&icon_color=a5d6ef&bg_color=1c1917&hide_border=true&show_icons=true)](http://www.github.com/brnakin)
+
+## 💻 Tech Stack
+
+Here's the tech stack I work with:
+
+- ![Java](https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg) Java
+- ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg) Python
+- ![C](https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg) C
+- ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg) Linux
+- ![Bash](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg) Bash
+- ![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg) Visual Studio Code
+- ![PostgreSQL](https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original-wordmark.svg) PostgreSQL
+- ![R](https://github.com/devicons/devicon/blob/v2.15.1/icons/r/r-original.svg) R
+- ![Django](https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain-wordmark.svg) Django
+- ![Docker](https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original-wordmark.svg) Docker
+- ![Git](https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original-wordmark.svg) Git
+- ![Jupyter](https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg) Jupyter
+- ![Kaggle](https://github.com/devicons/devicon/blob/v2.15.1/icons/kaggle/kaggle-original-wordmark.svg) Kaggle
+- ![Minitab](https://github.com/devicons/devicon/blob/v2.15.1/icons/minitab/minitab-original.svg) Minitab
+
+---
+
+## 📚 Let's Connect!
+
+Feel free to connect with me and check out my articles:
+
+- [Medium](https://medium.com/@brnakin)
+- [LinkedIn](https://www.linkedin.com/in/baranakın/)
