@@ -15,19 +15,18 @@ Hi 👋, I'm Baran, a Cyber Security Specialist and Data Scientist with a backgr
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="45" height="45" />
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg" alt="Java" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" alt="C" width="45" height="45" />
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/r/r-original.svg" alt="R" width="45" height="45" />
 <img src="https://github.com/brnakin/brnakin/assets/83096271/4d936546-e29b-4f97-a1f2-7d9277232c56" alt="SQL" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original-wordmark.svg" alt="Git" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain-wordmark.svg" alt="Django" width="45" height="45" />
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flask/flask-original-wordmark.svg" alt="Flask" width="45" height="45" />
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kaggle/kaggle-original-wordmark.svg" alt="Kaggle" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/minitab/minitab-original.svg" alt="Minitab" width="45" height="45"/>
 </p>
 
 <h3>🔗 Let's Connect!</h3>
