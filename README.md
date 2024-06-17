@@ -6,7 +6,7 @@ Hello 👋, I'm Baran, a Cyber Security Specialist and Data Scientist with a bac
 
 * 🌍  I'm based in Ankara, Turkey
 * ✉️  You can contact me at [brnakinn@gmail.com](mailto:brnakinn@gmail.com)
-* 🧠  I'm learning Generative AI
+* 🧠  I'm learning Generative AI, MLOps and Data Engineering
 
 <a href="http://www.github.com/brnakin"><img src="https://github-readme-stats.vercel.app/api?username=brnakin&show_icons=true&hide=&count_private=true&title_color=a5d6ef&text_color=ffffff&icon_color=a5d6ef&bg_color=1c1917&hide_border=true&show_icons=true" alt="brnakin's GitHub stats" /></a>
 
