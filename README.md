@@ -2,11 +2,10 @@ Cyber Security & Data Science
 ------------------------------------
 ![1500x500](https://github.com/superberdus/superberdus/assets/83096271/1bf7413f-f027-4123-a834-22f468830cf2)
 
-Hi 👋, I'm Baran, a Cyber Security Specialist and Data Scientist with a background in Computer Engineering and a minor in Applied Data Science. Passionate about sharing knowledge, I contribute free resources on cybersec and data science via my Medium account. Currently expanding my expertise in Data Science and Machine Learning.
+Hello 👋, I'm Baran, a Cyber Security Specialist and Data Scientist with a background in Computer Engineering and a minor in Applied Data Science. Passionate about sharing knowledge, I contribute free resources on cybersec and data science via my Medium account. Currently expanding my expertise in Data Science and Machine Learning.
 
-* 🌍  I'm based in Ankara
+* 🌍  I'm based in Ankara, Turkey
 * ✉️  You can contact me at [brnakinn@gmail.com](mailto:brnakinn@gmail.com)
-* 🚀  I'm currently working on [Barikat Cyber Security](https://www.barikat.com.tr)
 * 🧠  I'm learning Generative AI
 
 <a href="http://www.github.com/brnakin"><img src="https://github-readme-stats.vercel.app/api?username=brnakin&show_icons=true&hide=&count_private=true&title_color=a5d6ef&text_color=ffffff&icon_color=a5d6ef&bg_color=1c1917&hide_border=true&show_icons=true" alt="brnakin's GitHub stats" /></a>
