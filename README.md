@@ -2,8 +2,10 @@ Data Science & Cyber Security
 ------------------------------------
 ![1500x500](https://github.com/superberdus/superberdus/assets/83096271/1bf7413f-f027-4123-a834-22f468830cf2)
 
-Hello 👋, I'm Baran!  
-I'm a M.Sc. Data Science student and Cyber Security Specialist with a Bachelor's degree in Computer Engineering and a minor in Applied Data Science. I love sharing knowledge and regularly contribute free resources on data science and cyber security on Medium.  
+Hello 👋, I'm Baran!
+
+I'm a M.Sc. Data Science student and Cyber Security Specialist with a Bachelor's degree in Computer Engineering and a minor in Applied Data Science. I love sharing knowledge and regularly contribute free resources on data science and cyber security on Medium.
+
 Currently, I'm diving deeper into Data Science and exploring the exciting world of Generative AI. Feel free to connect with me or check out my resources—let’s learn and grow together!
 
 * 🌍  I'm based in Berlin, Germany
