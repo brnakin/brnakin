@@ -1,10 +1,16 @@
-Cyber Security & Data Science
+Data Science & Cyber Security
 ------------------------------------
 ![1500x500](https://github.com/superberdus/superberdus/assets/83096271/1bf7413f-f027-4123-a834-22f468830cf2)
 
-Hello 👋, I'm Baran, a Cyber Security Specialist and Data Scientist with a background in Computer Engineering and a minor in Applied Data Science. Passionate about sharing knowledge, I contribute free resources on cybersec and data science via my Medium account. Currently expanding my expertise in Data Science and Machine Learning.
+Hello 👋, I'm Baran!  
+I'm a M.Sc. Data Science student and Cyber Security Specialist with a Bachelor's degree in Computer Engineering and a minor in Applied Data Science. I love sharing knowledge and regularly contribute free resources on data science and cyber security on Medium.  
+Currently, I'm diving deeper into Data Science and exploring the exciting world of Generative AI. Feel free to connect with me or check out my resources—let’s learn and grow together!
 
-* 🌍  I'm based in Ankara, Turkey
+<h3>🔗 Let's Connect!</h3>
+<a href="https://medium.com/@brnakin" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/brnakin/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+* 🌍  I'm based in Berlin, Germany
 * ✉️  You can contact me at [brnakinn@gmail.com](mailto:brnakinn@gmail.com)
 * 🧠  I'm learning Generative AI, MLOps and Data Engineering
 
@@ -27,7 +33,3 @@ Hello 👋, I'm Baran, a Cyber Security Specialist and Data Scientist with a bac
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kaggle/kaggle-original-wordmark.svg" alt="Kaggle" width="45" height="45"/>
 </p>
-
-<h3>🔗 Let's Connect!</h3>
-<a href="https://medium.com/@brnakin" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/baranakın/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
