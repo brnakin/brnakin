@@ -6,15 +6,15 @@ Hello 👋, I'm Baran!
 I'm a M.Sc. Data Science student and Cyber Security Specialist with a Bachelor's degree in Computer Engineering and a minor in Applied Data Science. I love sharing knowledge and regularly contribute free resources on data science and cyber security on Medium.  
 Currently, I'm diving deeper into Data Science and exploring the exciting world of Generative AI. Feel free to connect with me or check out my resources—let’s learn and grow together!
 
-<h3>🔗 Let's Connect!</h3>
-<a href="https://medium.com/@brnakin" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/brnakin/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
 * 🌍  I'm based in Berlin, Germany
 * ✉️  You can contact me at [brnakinn@gmail.com](mailto:brnakinn@gmail.com)
 * 🧠  I'm learning Generative AI, MLOps and Data Engineering
 
 <a href="http://www.github.com/brnakin"><img src="https://github-readme-stats.vercel.app/api?username=brnakin&show_icons=true&hide=&count_private=true&title_color=a5d6ef&text_color=ffffff&icon_color=a5d6ef&bg_color=1c1917&hide_border=true&show_icons=true" alt="brnakin's GitHub stats" /></a>
+
+<h3>🔗 Let's Connect!</h3>
+<a href="https://medium.com/@brnakin" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/brnakin/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <h3>📦 Stack</h3>
 <p align="left">
