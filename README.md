@@ -4,13 +4,13 @@ Data Science & Cyber Security
 
 Hello 👋, I'm Baran!
 
-I'm a M.Sc. Data Science student and Cyber Security Specialist with a Bachelor's degree in Computer Engineering and a minor in Applied Data Science. I love sharing knowledge and regularly contribute free resources on data science and cyber security on Medium.
+I'm Machine Learning Engineer and M.Sc. Data Science student with a Bachelor's degree in Computer Engineering and a minor in Applied Data Science. I worked as a Cyber Security Engineer for two years. I love sharing knowledge and regularly contribute free resources on data science and cyber security on Medium.
 
-Currently, I'm diving deeper into Data Science and exploring the exciting world of Generative AI. Feel free to connect with me or check out my resources—let’s learn and grow together!
+Currently, I'm diving deeper into Machine Learning Engineering and exploring the exciting world of Generative AI. Feel free to connect with me or check out my resources—let’s learn and grow together!
 
 * 🌍  I'm based in Berlin, Germany
 * ✉️  You can contact me at [brnakinn@gmail.com](mailto:brnakinn@gmail.com)
-* 🧠  I'm learning Generative AI, MLOps and Data Engineering
+* 🧠  I'm learning AI/ML Engineering and MLOps
 
 <a href="http://www.github.com/brnakin"><img src="https://github-readme-stats.vercel.app/api?username=brnakin&show_icons=true&hide=&count_private=true&title_color=a5d6ef&text_color=ffffff&icon_color=a5d6ef&bg_color=1c1917&hide_border=true&show_icons=true" alt="brnakin's GitHub stats" /></a>
 
