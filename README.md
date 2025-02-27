@@ -4,7 +4,7 @@ Data Science & Cyber Security
 
 Hello 👋, I'm Baran!
 
-I'm Machine Learning Engineer and M.Sc. Data Science student with a Bachelor's degree in Computer Engineering and a minor in Applied Data Science. I worked as a Cyber Security Engineer for two years. I love sharing knowledge and regularly contribute free resources on data science and cyber security on Medium.
+I'm Machine Learning Engineer and M.Sc. Data Science student with a Bachelor's degree in Computer Engineering and a minor in Applied Data Science. I worked for three years in various cyber security roles. I love sharing knowledge and regularly contribute free resources on data science and cyber security on Medium.
 
 Currently, I'm diving deeper into Machine Learning Engineering and exploring the exciting world of Generative AI. Feel free to connect with me or check out my resources—let’s learn and grow together!
 
